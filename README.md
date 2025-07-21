@@ -23,7 +23,6 @@ This repository is a personal learning archive for my journey in learning **Pyth
 - String manipulation
 - File I/O
 - Exception handling
-- And more to come...
 
 ---
 
