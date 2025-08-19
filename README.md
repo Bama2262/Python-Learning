@@ -31,7 +31,7 @@ This repository is a personal learning archive for my journey in learning **Pyth
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Bama2262/Python-Learning.git
+   git clone https://github.com/Rukadevata/Python-Learning.git
    cd Python-Learning
 
 2. **Run a specific Python file:**
